@@ -14,7 +14,7 @@ Minimization},
 
 # Getting Started
 
-See [minimalExample.m](minimalExmple.m)
+See [minimalExample.m](minimalExample.m)
 
 # Reproduce Results in the Paper
 
