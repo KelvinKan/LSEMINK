@@ -40,4 +40,4 @@ To reproduce the geometric programming experiments, you will need [CVX](http://c
 
 # Acknowledgments
 
-This material is in part based upon work supported by the US National Science Foundation Grants DMS-1751636 and DMS-2038118, the US AFOSR Grants 20RT0237 and FA9550-18-1-0167, AFOSR MURI FA9550-18-1-050, and ONR Grant No. N00014-18-1- 2527. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the funding agencies.
+This material is in part based upon work supported by the US National Science Foundation Grants DMS-1751636 and DMS-2038118, the US AFOSR grant FA9550-18-1-0167, and US DOE Office of Advanced Scientific Computing Research Field Work Proposal 20-023231. Any opinions, findings, conclusions, or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the funding agencies.
