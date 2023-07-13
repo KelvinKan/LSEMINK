@@ -13,6 +13,9 @@ Minimization},
 }
 ```
 
+This repository is also available on Mathworks File Exchange
+[![View LSEMINK on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/132248-lsemink)
+
 # Getting Started
 
 See [minimalExample.m](minimalExample.m)
