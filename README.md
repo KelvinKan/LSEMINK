@@ -6,9 +6,10 @@ This repository contains a Matlab implementation of LSEMINK, a modified Newton-K
 @article{Kan2023LSEMINK,
   title={LSEMINK: A Modified Newton-Krylov Method for Log-Sum-Exp
 Minimization},
-  author={Kelvin, Kan and Nagy, James, and Ruthotto, Lars},
-  journal={arXiv preprint arXiv:2306.xxxx},
-  year={2023}
+  author={Kan, Kelvin and Nagy, James G and Ruthotto, Lars},
+  journal={arXiv preprint arXiv:2307.04871},
+  year={2023},
+  url = "https://arxiv.org/abs/2307.04871",
 }
 ```
 
